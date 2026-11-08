@@ -20,3 +20,5 @@ A Turtle graphics window will display the heart animation.
 
 This project explores mathematical visualization and creative programming using Python.
 Trying to use my passion for mathematics in my early projects
+
+<img width="988" height="780" alt="image" src="https://github.com/user-attachments/assets/7748cb04-1ece-476c-beaf-6eb724f0f857" />
